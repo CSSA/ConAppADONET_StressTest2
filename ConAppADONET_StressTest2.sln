@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppADONET_StressTest", "ConAppADONET_StressTest.csproj", "{1D30A5A5-883D-4A0A-A884-CD04DDF4AD5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppADONET_StressTest2", "ConAppADONET_StressTest2.csproj", "{1D30A5A5-883D-4A0A-A884-CD04DDF4AD5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -7,8 +7,8 @@
     <ProjectGuid>{1D30A5A5-883D-4A0A-A884-CD04DDF4AD5A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConAppADONET_StressTest</RootNamespace>
-    <AssemblyName>ConAppADONET_StressTest</AssemblyName>
+    <RootNamespace>ConAppADONET_StressTest2</RootNamespace>
+    <AssemblyName>ConAppADONET_StressTest2</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
